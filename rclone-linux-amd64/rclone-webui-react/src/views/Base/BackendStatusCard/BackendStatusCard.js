@@ -115,7 +115,7 @@ function StatusText({connectivityStatus, checkStatus, ipAddress, userName}) {
                 <span className="card-text">{statusText}</span>
             </p>
             <p>
-                <span className={"card-subtitle"}>Current IP Address: {" "}</span>
+                <span className={"card-subtitle"}>Current IP Address666: {" "}</span>
                 <span className="card-text">{ipAddress}</span>
             </p>
             <p>
